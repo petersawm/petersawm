@@ -1,6 +1,4 @@
 ## Hi there,I'm Peter Sawm👋
-
-🚀 About Me
 I am a qualified and professional web developer with four years of experience in database administration and website design. Strong creative and analytical skills. Team player with an eye for detail.
 
 I have a little bit of experience with everything from coding to QA to project management. I’m always looking for new challenges and opportunities, and I’m excited to see what the future holds for me in the world of tech. Thanks for reading!
@@ -9,7 +7,10 @@ I have a little bit of experience with everything from coding to QA to project m
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🚀 About Me...
+I am a qualified and professional web developer with four years of experience in database administration and website design. Strong creative and analytical skills. Team player with an eye for detail.
+
+I have a little bit of experience with everything from coding to QA to project management. I’m always looking for new challenges and opportunities, and I’m excited to see what the future holds for me in the world of tech. Thanks for reading!
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
