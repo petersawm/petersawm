@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there,I'm Peter Sawm👋
+I am a qualified and professional web developer with four years of experience in database administration and website design. Strong creative and analytical skills. Team player with an eye for detail.
 
+I have a little bit of experience with everything from coding to QA to project management. I’m always looking for new challenges and opportunities, and I’m excited to see what the future holds for me in the world of tech. Thanks for reading!
 <!--
 **petersawm/petersawm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
