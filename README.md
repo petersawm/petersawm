@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-I am a qualified and professional **web developer** with six years of experience in database administration and website design. Strong creative and analytical skills. Team player with an eye for detail.
+I'm a senior software engineer with a passion for building elegant and efficient software. For over eight years, I've had the privilege of working on a wide range of projects, from developing intricate back-end systems to creating seamless user experiences.
 
-I have a little bit of experience with everything from coding to QA to project management. I’m always looking for new challenges and opportunities, and I’m excited to see what the future holds for me in the world of tech. Thanks for reading!
+My journey has taught me the importance of not just writing code, but also of collaborating with teams and solving real-world problems. When I'm not coding, you'll find me exploring new technologies and sharing my knowledge with the developer community.
 
 ---
 
@@ -25,6 +25,8 @@ I have a little bit of experience with everything from coding to QA to project m
 * Redux
 * Tailwind CSS
 * Webpack
+* TypeScript
+* Next.js
 
 
 ### **Backend:**
@@ -34,6 +36,9 @@ I have a little bit of experience with everything from coding to QA to project m
 * Django REST Framework
 * PostgreSQL
 * MongoDB
+* Go
+* GraphQL
+* REST APIs
 
 
 ### **DevOps & Tools:**
@@ -42,6 +47,12 @@ I have a little bit of experience with everything from coding to QA to project m
 * AWS
 * VS Code
 * Postman
+* Kubernetes
+* GCP
+* CI/CD (Jenkins)
+* Terraform
+
+
 
 ## 🤝 Let's Collaborate!
 I'm eager to collaborate on projects where I can contribute my full-stack development skills, especially in building scalable web applications and implementing robust backend systems. I'm also keen on contributing to open-source projects that focus on improving developer tools and enhancing UI libraries. If you have an interesting project or a potential collaboration opportunity, don't hesitate to get in touch!
