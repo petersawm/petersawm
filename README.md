@@ -1,71 +1,75 @@
-## Hi there,I'm Peter Sawm👋
+## Hi there, I'm <ins>Peter Sawm</ins> 👋
 
-
-📍 **based in Istanbul, Turkey**  
-💼 **Let's connect on [LinkedIn](https://www.linkedin.com/in/peter-sawm-06932b254/)**  
-📧 **Reach me at:** [petersawm.contact@gmail.com](mailto:petersawm.contact@gmail.com)
+📍 Istanbul, Turkey  
+💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/peter-sawm-06932b254/)**  
+📧 Email: **petersawm.contact@gmail.com**
 
 ---
 
 ## 🚀 About Me
 
-I'm a senior software engineer with a passion for building elegant and efficient software. For over eight years, I've had the privilege of working on a wide range of projects, from developing intricate back-end systems to creating seamless user experiences.
+I'm a **Senior Software Engineer** with **8+ years of experience** building elegant, scalable, and high-performance software systems.  
+I specialize in **full-stack web development**, backend architecture, and cloud infrastructure.
 
-My journey has taught me the importance of not just writing code, but also of collaborating with teams and solving real-world problems. When I'm not coding, you'll find me exploring new technologies and sharing my knowledge with the developer community.
+I value:
+- Clean, maintainable code  
+- Scalable software design  
+- Collaboration & team growth  
 
 ---
 
-## 🔧 Technologies & Tools
+## 🧠 Tech Stack & Tools
 
-### **Frontend:**
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React
-* Redux
-* Tailwind CSS
-* Webpack
-* TypeScript
-* Next.js
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,webpack,figma" height="48"/>
+</p>
 
+<p>
+  <!-- Additional frontend ecosystem logos -->
+  <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Radix%20UI-262727?style=for-the-badge&logo=radixui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white"/>
+</p>
 
-### **Backend:**
-* Node.js
-* Express.js
-* Python
-* Django REST Framework
-* PostgreSQL
-* MongoDB
-* Go
-* GraphQL
-* REST APIs
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,go,graphql,php,java,cpp,c,rust,kotlin,swift,elixir" height="48"/>
+</p>
 
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="48"/>
+</p>
 
-### **DevOps & Tools:**
-* Git
-* Docker
-* AWS
-* VS Code
-* Postman
-* Kubernetes
-* GCP
-* CI/CD (Jenkins)
-* Terraform
+### **APIs / Architecture**
+- REST APIs  
+- Microservices Architecture  
+- Distributed Systems  
 
+### **DevOps & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins,terraform,git" height="48"/>
+</p>
 
+### **Developer Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman" height="48"/>
+</p>
 
-## 🤝 Let's Collaborate!
-I'm eager to collaborate on projects where I can contribute my full-stack development skills, especially in building scalable web applications and implementing robust backend systems. I'm also keen on contributing to open-source projects that focus on improving developer tools and enhancing UI libraries. If you have an interesting project or a potential collaboration opportunity, don't hesitate to get in touch!
-<!--
-**petersawm/petersawm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🤝 Let's Collaborate
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in:
+- Scalable Web Applications  
+- Backend / API Architecture  
+- Developer Tools & UI Component Libraries  
+
+If you have an interesting project or collaboration idea —  
+**Let’s connect and build something impactful! 🚀**
+
+---
