@@ -8,8 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Software Engineer** with **8+ years of experience** building elegant, scalable, and high-performance software systems.  
-I specialize in **full-stack web development**, backend architecture, and cloud infrastructure.
+I'm a Senior Software Engineer specializing in full-stack web development, backend architecture, and cloud infrastructure. I excel at building elegant, scalable, and high-performance software systems.
 
 I value:
 - Clean, maintainable code  
